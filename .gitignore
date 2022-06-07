@@ -1,2 +1,6 @@
 *.npy
 *.png
+paper/*
+*.csv
+*.eps
+*.pkl
